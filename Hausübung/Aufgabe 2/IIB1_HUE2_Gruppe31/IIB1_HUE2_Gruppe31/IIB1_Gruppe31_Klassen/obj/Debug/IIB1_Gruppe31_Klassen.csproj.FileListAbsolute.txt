@@ -1,0 +1,18 @@
+C:\Users\I-Lin\Desktop\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\bin\Debug\IIB1_Gruppe31_Klassen.dll
+C:\Users\I-Lin\Desktop\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\bin\Debug\IIB1_Gruppe31_Klassen.pdb
+C:\Users\I-Lin\Desktop\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.csprojAssemblyReference.cache
+C:\Users\I-Lin\Desktop\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\Desktop\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.dll
+C:\Users\I-Lin\Desktop\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.pdb
+C:\Users\I-Lin\Dropbox\IIB1\第二问结束\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\bin\Debug\IIB1_Gruppe31_Klassen.dll
+C:\Users\I-Lin\Dropbox\IIB1\第二问结束\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\bin\Debug\IIB1_Gruppe31_Klassen.pdb
+C:\Users\I-Lin\Dropbox\IIB1\第二问结束\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.csprojAssemblyReference.cache
+C:\Users\I-Lin\Dropbox\IIB1\第二问结束\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\Dropbox\IIB1\第二问结束\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.dll
+C:\Users\I-Lin\Dropbox\IIB1\第二问结束\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.pdb
+D:\dropbox\Dropbox\IIB1\Neuer Ordner\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\bin\Debug\IIB1_Gruppe31_Klassen.dll
+D:\dropbox\Dropbox\IIB1\Neuer Ordner\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\bin\Debug\IIB1_Gruppe31_Klassen.pdb
+D:\dropbox\Dropbox\IIB1\Neuer Ordner\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.csprojResolveAssemblyReference.cache
+D:\dropbox\Dropbox\IIB1\Neuer Ordner\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.csproj.CoreCompileInputs.cache
+D:\dropbox\Dropbox\IIB1\Neuer Ordner\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.dll
+D:\dropbox\Dropbox\IIB1\Neuer Ordner\IIB1_HUE2_Gruppe31\IIB1_Gruppe31_Klassen\obj\Debug\IIB1_Gruppe31_Klassen.pdb

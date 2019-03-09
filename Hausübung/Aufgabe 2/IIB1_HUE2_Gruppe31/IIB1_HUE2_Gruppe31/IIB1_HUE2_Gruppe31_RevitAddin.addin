@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Raumnutzungsplanung Tool</Name>
+    <Assembly>IIB1_HUE2_Gruppe31_RevitAddin.dll</Assembly>
+    <ClientId>e71281cc-47d9-4019-9c26-b4d69ec5ec14</ClientId>
+    <FullClassName>IIB1_HUE2_Gruppe31_RevitAddin.IIB1_Gruppe31_StartApp</FullClassName>
+    <VendorId>de.tu-darmstadt.iib.iib1.gruppe31</VendorId>
+    <VendorDescription>IIB1 Übung 2 Gruppe 31</VendorDescription>
+  </AddIn>
+</RevitAddIns>
