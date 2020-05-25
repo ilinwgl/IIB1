@@ -1,0 +1,76 @@
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources

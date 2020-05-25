@@ -1,0 +1,36 @@
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csprojResolveAssemblyReference.cache
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csproj.CoreCompileInputs.cache
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\key\Desktop\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\IIB1_HUE1_Gruppe31(6)(4)Wei\IIB1_HUE1_Gruppe31(6)(4)\IIB1_HUE1_Gruppe31(6)\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csprojAssemblyReference.cache
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\桌面\TU Darmstadt\Numerische Methoden und Informatik im Bauwesen\Informatik im Bau- und Umweltwesen 1\1819\Übung\Übung1\Abgabe\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\bin\Debug\IIB1_HUE1_Gruppe31.pdb
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csprojAssemblyReference.cache
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.csproj.CoreCompileInputs.cache
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.dll
+C:\Users\I-Lin\Downloads\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\IIB1_HUE1_Gruppe31\obj\Debug\IIB1_HUE1_Gruppe31.pdb
